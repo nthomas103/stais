@@ -1,8 +1,8 @@
 # Stanford transformative AI safety working group
 
-By "transformative AI", we mean "AI that precipitates a transition comparable to (or more significant than) the agricultural or industrial revolution" (from the [Open Philanthropy Project blog](https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence#Sec1)).
+In the long term, artificial intelligence could "precipitate a transition comparable to (or more significant than) the agricultural or industrial revolution" (from the [Open Philanthropy Project blog](https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence#Sec1)).  
 
-If such a transition is navigated well, this could be fantastically good.  
+Such a transition may pose significant technical and societal challenges, but, if navigated well, could be fantastically good.
 
 [Stanford Effective Altruism](http://web.stanford.edu/group/ea/) is organizing this seminar series to promote research that will make a positive outcome more likely.
 
