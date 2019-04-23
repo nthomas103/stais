@@ -1,6 +1,4 @@
-# Transformative AI safety working group at Stanford
-
-## Purpose
+# Stanford transformative AI safety working group
 
 By "transformative AI", we mean "roughly and conceptually, AI that precipitates a transition comparable to (or more significant than) the agricultural or industrial revolution" (quoting from the [Open Philanthropy Project blog](https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence#Sec1) -- see also the more detailed definition #2 in that post).
 
@@ -10,11 +8,11 @@ We hope these meetings will connect Stanford researchers interested in transform
 
 ## Background reading
 
-If you're interested in learning more, [here](http://shlegeris.com/ai-safety-reading-list) is some background material that we recomend.  Also recommended are [80000 Hours podcast episodes](https://80000hours.org/podcast/episodes/) on topics related to transformative AI.  (If you only have time to listen to one of these podcasts, listen to the [interview with Paul Christiano](https://80000hours.org/podcast/episodes/paul-christiano-ai-alignment-solutions/).)
+If you're interested in learning more, [here is some background material that we recomend](http://shlegeris.com/ai-safety-reading-list).  Also recommended are [80000 Hours podcast episodes](https://80000hours.org/podcast/episodes/) on topics related to transformative AI.  (If you only have time to listen to one of these podcasts, listen to the [interview with Paul Christiano](https://80000hours.org/podcast/episodes/paul-christiano-ai-alignment-solutions/).)
 
 ## Schedule
 
-We are fortunate this quarter to be visited by excellent speakers representing many different perspectives on technical transformative AI safety research.  The talks will generally be short (about 30 minutes), and there will be ample time for in-depth discussion.
+We are fortunate this quarter to be visited by excellent researchers representing many different perspectives on technical transformative AI safety research.  The talks will generally be short (about 30 minutes), and there will be ample time for in-depth discussion.
 
 - [Geoffrey Irving](https://naml.us/) ([OpenAI](https://openai.com/)): "AI Safety at OpenAI", 4/24, 5:30pm, [Varian physics building](https://www.google.com/maps/place/Physics+Department/@37.4285413,-122.1731025,19z/data=!3m1!4b1!4m5!3m4!1s0x808fbb2af1d7cd13:0x4dd96aad40ba907b!8m2!3d37.4285412!4d-122.1725553), 3rd floor, room 355
   - [Podcast interview](https://futureoflife.org/2019/03/06/ai-alignment-through-debate-with-geoffrey-irving/) with Geoffrey
