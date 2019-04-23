@@ -4,7 +4,7 @@ In the long term, artificial intelligence could "precipitate a transition compar
 
 Such a transition may pose significant technical and societal challenges, but, if navigated well, could be fantastically good.
 
-[Stanford Effective Altruism](http://web.stanford.edu/group/ea/) is organizing this seminar series to promote research that will make a positive outcome more likely.
+[Stanford Effective Altruism](http://web.stanford.edu/group/ea/) is organizing this seminar series to facilitate research that makes a positive outcome more likely.
 
 ## Background reading
 
