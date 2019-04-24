@@ -21,9 +21,9 @@ We are fortunate this quarter to be visited by excellent researchers representin
     - [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741)
     - [AI safety via debate](https://arxiv.org/abs/1805.00899)
     - [AI safety needs social scientists](https://distill.pub/2019/safety-needs-social-scientists/)
-- [Rohin Shah](https://rohinshah.com/) ([CHAI](https://humancompatible.ai/), UC Berkeley), 5/2, 4pm, location TBD
+- [Rohin Shah](https://rohinshah.com/) ([Center for Human-Compatible AI](https://humancompatible.ai/), UC Berkeley), 5/2, 4pm, location TBD
 - Eric Drexler ([Future of Humanity Institute](https://www.fhi.ox.ac.uk/)), "[Comprehensive AI Services](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf)", 5/9, 4pm, location TBD
-- [Scott Garrabrant](http://scott.garrabrant.com/) ([MIRI](https://intelligence.org/)), details TBD
+- [Scott Garrabrant](http://scott.garrabrant.com/) ([Machine Intelligence Research Institute](https://intelligence.org/)), details TBD
 - [Jacob Steinhardt](https://www.stat.berkeley.edu/~jsteinhardt/) (UC Berkeley), details TBD
 
 ## Contact
