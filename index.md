@@ -14,7 +14,7 @@ If you're interested in learning more, [here is some background material that we
 
 We are fortunate this quarter to be visited by excellent researchers representing many different perspectives on technical transformative AI safety research.  The talks will generally be short (about 30 minutes), and we should have ample time for in-depth discussion.
 
-- [Geoffrey Irving](https://naml.us/) ([OpenAI](https://openai.com/)): "AI Safety at OpenAI", 4/24, 5:30pm, [Varian physics building](https://www.google.com/maps/place/Physics+Department/@37.4285413,-122.1731025,19z/data=!3m1!4b1!4m5!3m4!1s0x808fbb2af1d7cd13:0x4dd96aad40ba907b!8m2!3d37.4285412!4d-122.1725553), 3rd floor, room 355 (email the address below if you need help getting in the building or finding the room)
+- [Geoffrey Irving](https://naml.us/) ([OpenAI](https://openai.com/)): "AI Safety at OpenAI" ([slides](irving.pdf)), 4/24, 5:30pm, [Varian physics building](https://www.google.com/maps/place/Physics+Department/@37.4285413,-122.1731025,19z/data=!3m1!4b1!4m5!3m4!1s0x808fbb2af1d7cd13:0x4dd96aad40ba907b!8m2!3d37.4285412!4d-122.1725553), 3rd floor, room 355 (email the address below if you need help getting in the building or finding the room)
   - [Podcast interview](https://futureoflife.org/2019/03/06/ai-alignment-through-debate-with-geoffrey-irving/) with Geoffrey
   - Papers that Geoffrey plans to mention:
     - [Concrete problems in AI safety](https://arxiv.org/abs/1606.06565)
