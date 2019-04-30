@@ -21,7 +21,7 @@ We are fortunate this quarter to be visited by excellent researchers representin
     - [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741)
     - [AI safety via debate](https://arxiv.org/abs/1805.00899)
     - [AI safety needs social scientists](https://distill.pub/2019/safety-needs-social-scientists/)
-- [Rohin Shah](https://rohinshah.com/) ([Center for Human-Compatible AI](https://humancompatible.ai/), UC Berkeley), 5/2, 4pm, location TBD
+- [Rohin Shah](https://rohinshah.com/) ([Center for Human-Compatible AI](https://humancompatible.ai/), UC Berkeley), 5/2, 4pm, Gates 304
   - Podcast interviews overviewing AI alignment research agendas ([part 1](https://futureoflife.org/2019/04/11/an-overview-of-technical-ai-alignment-with-rohin-shah-part-1/)) ([part 2](https://futureoflife.org/2019/04/25/an-overview-of-technical-ai-alignment-with-rohin-shah-part-2/))
   - [Alignment newsletter](http://rohinshah.com/alignment-newsletter/)
   - [Value learning sequence](https://www.alignmentforum.org/s/4dHMdK5TLN6xcqtyc)
