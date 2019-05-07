@@ -25,7 +25,7 @@ We are fortunate this quarter to be visited by excellent researchers representin
   - Podcast interviews overviewing AI alignment research agendas ([part 1](https://futureoflife.org/2019/04/11/an-overview-of-technical-ai-alignment-with-rohin-shah-part-1/)) ([part 2](https://futureoflife.org/2019/04/25/an-overview-of-technical-ai-alignment-with-rohin-shah-part-2/))
   - [Alignment newsletter](http://rohinshah.com/alignment-newsletter/)
   - [Value learning sequence](https://www.alignmentforum.org/s/4dHMdK5TLN6xcqtyc)
-- Eric Drexler ([Future of Humanity Institute](https://www.fhi.ox.ac.uk/)), "[Comprehensive AI Services](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf)", 5/9, 4pm, location TBD
+- Eric Drexler ([Future of Humanity Institute](https://www.fhi.ox.ac.uk/)), "[Comprehensive AI Services](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf)", 5/9, 5pm, [Spilker building](https://goo.gl/maps/xiVgQuhDt1MLAcWG7) room 232
   - [Reframing superintelligence talk](https://www.youtube.com/watch?v=MircoV5LKvg)
 - [Scott Garrabrant](http://scott.garrabrant.com/) ([Machine Intelligence Research Institute](https://intelligence.org/)), 5/16, 4pm, location TBD
 - [Jacob Steinhardt](https://www.stat.berkeley.edu/~jsteinhardt/) (UC Berkeley), details TBD
