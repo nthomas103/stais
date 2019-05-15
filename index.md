@@ -21,13 +21,14 @@ We are fortunate this quarter to be visited by excellent researchers representin
     - [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741)
     - [AI safety via debate](https://arxiv.org/abs/1805.00899)
     - [AI safety needs social scientists](https://distill.pub/2019/safety-needs-social-scientists/)
-- [Rohin Shah](https://rohinshah.com/) ([Center for Human-Compatible AI](https://humancompatible.ai/), UC Berkeley), "An Overview of AI Alignment" ([slides 1](https://docs.google.com/presentation/d/1f-U9HJ2ZeaXyB1XRiQO1Vz4Bcqut43dY-srtwGjHq5w/edit#slide=id.p), [slides 2](https://drive.google.com/file/d/1fB7cpVzM2qORKhOHr-VrbDWgoQYAuz0B/view)), 5/2, 4pm, [Gates](https://www.google.com/maps/place/Gates+Computer+Science,+353+Serra+Mall,+Stanford,+CA+94305/@37.4299866,-122.175519,17z/data=!3m1!4b1!4m5!3m4!1s0x808fbb2b3f50f727:0xfd9cc3200ee97fda!8m2!3d37.4299866!4d-122.1733303) room 304
+- [Rohin Shah](https://rohinshah.com/) ([Center for Human-Compatible AI](https://humancompatible.ai/), UC Berkeley), "An Overview of AI Alignment" ([slides 1](https://docs.google.com/presentation/d/1f-U9HJ2ZeaXyB1XRiQO1Vz4Bcqut43dY-srtwGjHq5w/edit#slide=id.p), [slides 2](https://drive.google.com/file/d/1fB7cpVzM2qORKhOHr-VrbDWgoQYAuz0B/view)), 5/2, 4pm, [Gates building](https://www.google.com/maps/place/Gates+Computer+Science,+353+Serra+Mall,+Stanford,+CA+94305/@37.4299866,-122.175519,17z/data=!3m1!4b1!4m5!3m4!1s0x808fbb2b3f50f727:0xfd9cc3200ee97fda!8m2!3d37.4299866!4d-122.1733303) room 304
   - Podcast interviews overviewing AI alignment research agendas ([part 1](https://futureoflife.org/2019/04/11/an-overview-of-technical-ai-alignment-with-rohin-shah-part-1/)) ([part 2](https://futureoflife.org/2019/04/25/an-overview-of-technical-ai-alignment-with-rohin-shah-part-2/))
   - [Alignment newsletter](http://rohinshah.com/alignment-newsletter/)
   - [Value learning sequence](https://www.alignmentforum.org/s/4dHMdK5TLN6xcqtyc)
 - Eric Drexler ([Future of Humanity Institute](https://www.fhi.ox.ac.uk/)), "[Comprehensive AI Services](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf)", 5/9, 5pm, [Spilker building](https://goo.gl/maps/xiVgQuhDt1MLAcWG7) room 232
   - [Reframing superintelligence talk](https://www.youtube.com/watch?v=MircoV5LKvg)
-- [Scott Garrabrant](http://scott.garrabrant.com/) ([Machine Intelligence Research Institute](https://intelligence.org/)), 5/16, 4pm, location TBD
+  - [Paretopian goal alignment](https://www.youtube.com/watch?v=1lqBra8r468)
+- [Scott Garrabrant](http://scott.garrabrant.com/) ([Machine Intelligence Research Institute](https://intelligence.org/)), "[Embedded agency](https://www.lesswrong.com/posts/i3BTagvt3HbPMx6PN/embedded-agency-full-text-version)", 5/16, 4-6pm, [Gates building](https://www.google.com/maps/place/Gates+Computer+Science,+353+Serra+Mall,+Stanford,+CA+94305/@37.4299866,-122.175519,17z/data=!3m1!4b1!4m5!3m4!1s0x808fbb2b3f50f727:0xfd9cc3200ee97fda!8m2!3d37.4299866!4d-122.1733303), room 358
 - [Jacob Steinhardt](https://www.stat.berkeley.edu/~jsteinhardt/) (UC Berkeley), details TBD
 
 ## Contact
