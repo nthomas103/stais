@@ -32,6 +32,7 @@ We are fortunate this quarter to be visited by excellent researchers representin
 - Final exam: group strategy exercise, 5/22, time and location TBD
 - Tegan McCaslin, 5/30, time and location TBD
 - [Jacob Steinhardt](https://www.stat.berkeley.edu/~jsteinhardt/) (UC Berkeley), 6/4, 4-6pm, location TBD
+- [Carroll Wainwright](https://www.partnershiponai.org/team/carroll-wainwright/) ([Partnership on AI](https://www.partnershiponai.org/)), details TBD
 
 ## Contact
 
