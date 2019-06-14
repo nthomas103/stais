@@ -33,6 +33,7 @@ We are fortunate this quarter to be visited by excellent researchers representin
 - Tegan McCaslin, "[Neural architectures](https://aiimpacts.org/primates-vs-birds-is-one-brain-architecture-better-than-the-other/)", 5/30, 4-6pm, [Gates building](https://www.google.com/maps/place/Gates+Computer+Science,+353+Serra+Mall,+Stanford,+CA+94305/@37.4299866,-122.175519,17z/data=!3m1!4b1!4m5!3m4!1s0x808fbb2b3f50f727:0xfd9cc3200ee97fda!8m2!3d37.4299866!4d-122.1733303), room 358
 - [Jacob Steinhardt](https://www.stat.berkeley.edu/~jsteinhardt/) (UC Berkeley), 6/4, 4-6pm, [Gates building](https://www.google.com/maps/place/Gates+Computer+Science,+353+Serra+Mall,+Stanford,+CA+94305/@37.4299866,-122.175519,17z/data=!3m1!4b1!4m5!3m4!1s0x808fbb2b3f50f727:0xfd9cc3200ee97fda!8m2!3d37.4299866!4d-122.1733303), room 104
 - [Carroll Wainwright](https://www.partnershiponai.org/team/carroll-wainwright/) ([Partnership on AI](https://www.partnershiponai.org/)), 6/13, 4-6pm, [Gates building](https://www.google.com/maps/place/Gates+Computer+Science,+353+Serra+Mall,+Stanford,+CA+94305/@37.4299866,-122.175519,17z/data=!3m1!4b1!4m5!3m4!1s0x808fbb2b3f50f727:0xfd9cc3200ee97fda!8m2!3d37.4299866!4d-122.1733303), room 304
+- [Jan Leike](https://jan.leike.name/) ([DeepMind](https://deepmind.com/)), 6/20, 5:30-7:30pm, [Gates building](https://www.google.com/maps/place/Gates+Computer+Science,+353+Serra+Mall,+Stanford,+CA+94305/@37.4299866,-122.175519,17z/data=!3m1!4b1!4m5!3m4!1s0x808fbb2b3f50f727:0xfd9cc3200ee97fda!8m2!3d37.4299866!4d-122.1733303), room 304
 
 ## Contact
 
