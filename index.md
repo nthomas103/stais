@@ -35,6 +35,7 @@ We are fortunate this quarter to be visited by excellent researchers representin
 - [Carroll Wainwright](https://www.partnershiponai.org/team/carroll-wainwright/) ([Partnership on AI](https://www.partnershiponai.org/)), 6/13, 4-6pm, [Gates building](https://www.google.com/maps/place/Gates+Computer+Science,+353+Serra+Mall,+Stanford,+CA+94305/@37.4299866,-122.175519,17z/data=!3m1!4b1!4m5!3m4!1s0x808fbb2b3f50f727:0xfd9cc3200ee97fda!8m2!3d37.4299866!4d-122.1733303), room 304
 - [Jan Leike](https://jan.leike.name/) ([DeepMind](https://deepmind.com/)), 6/20, 5:30-7:30pm, [Gates building](https://www.google.com/maps/place/Gates+Computer+Science,+353+Serra+Mall,+Stanford,+CA+94305/@37.4299866,-122.175519,17z/data=!3m1!4b1!4m5!3m4!1s0x808fbb2b3f50f727:0xfd9cc3200ee97fda!8m2!3d37.4299866!4d-122.1733303), room 304
 - Working session: group strategy exercise, 6/27 6:00-8:00pm, [Gates building](https://www.google.com/maps/place/Gates+Computer+Science,+353+Serra+Mall,+Stanford,+CA+94305/@37.4299866,-122.175519,17z/data=!3m1!4b1!4m5!3m4!1s0x808fbb2b3f50f727:0xfd9cc3200ee97fda!8m2!3d37.4299866!4d-122.1733303), room 358
+- [Beth Barnes](https://www.cser.ac.uk/team/beth-barnes/) ([OpenAI](https://openai.com/)): "AI Safety via Debate", 8/05, 4:00pm, [Varian physics building](https://www.google.com/maps/place/Physics+Department/@37.4285413,-122.1731025,19z/data=!3m1!4b1!4m5!3m4!1s0x808fbb2af1d7cd13:0x4dd96aad40ba907b!8m2!3d37.4285412!4d-122.1725553), room 355
 
 ## Contact
 
